@@ -157,5 +157,23 @@ Time of the day customers give the most ratings.
 
 Which day of the week has the best average ratings per branch?
 
+``` sql
+Revenue and Profit Calculations
+Key Formulas
+
+COGS = Unit Price × Quantity
+VAT = 5% × COGS
+Gross Sales = COGS + VAT
+Gross Profit = Gross Sales − COGS
+Gross Margin (%) = (Gross Profit ÷ Gross Sales) × 100
+Example Calculation
+
+Unit Price: 45.79, Quantity: 7
+COGS = 45.79 × 7 = 320.53
+VAT = 5% × 320.53 = 16.03
+Gross Sales = 320.53 + 16.03 = 336.56
+Gross Margin (%) = (16.03 ÷ 336.56) × 100 ≈ 4.76%
+
+```
 
 
