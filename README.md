@@ -13,3 +13,35 @@ Description: Sales transactions from three Walmart branches in Myanmar
 Branches: Mandalay, Yangon, Naypyitaw
 
 Size: Columns: 17, Rows: 1,000
+
+## Steps for Analysis
+
+### Step 1: Product Analysis
+
+Goals:
+
+Analyze the performance of different product lines.
+Identify:
+Top-performing product lines.
+Underperforming product lines requiring improvement.
+Use bar charts and pie charts for visualization.
+
+### Step 2: Sales Analysis
+
+Goals:
+
+Examine sales trends across product lines.
+Analyze monthly and seasonal sales data to measure strategy effectiveness.
+Evaluate the impact of sales promotions or events on revenue.
+Use time-series charts to illustrate trends and patterns.
+
+### Step 3: Customer Analysis
+
+Goals:
+
+Segment customers based on:
+Purchase behavior.
+Demographic information.
+Identify profitable customer segments and trends in customer purchases.
+Analyze gender-wise or customer type-wise profitability.
+Visualize findings using clustered bar charts or heatmaps.
