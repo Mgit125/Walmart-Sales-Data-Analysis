@@ -57,3 +57,44 @@ Identify profitable customer segments and trends in customer purchases.
 Analyze gender-wise or customer type-wise profitability.
 
 Visualize findings using clustered bar charts or heatmaps.
+
+## Approach Used
+
+### 1. Data Wrangling
+
+Inspected the dataset for missing or NULL values.
+
+Ensured data integrity by applying the following steps:
+
+Built a database.
+
+Created tables and inserted the data.
+
+Verified columns for NULL values:
+
+All fields were set to NOT NULL during table creation, ensuring data quality.
+
+
+### 2. Feature Engineering
+
+Generated new columns for deeper insights:
+
+time_of_day: Categorized transactions into Morning, Afternoon, and Evening.
+
+day_name: Extracted the day of the week (e.g., Mon, Tue).
+
+month_name: Extracted the month (e.g., Jan, Feb).
+
+### 3. Exploratory Data Analysis (EDA)
+
+Conducted in-depth analysis to answer the project objectives:
+
+Identified top-performing branches and product lines.
+
+Analyzed customer behavior and purchase trends.
+
+Visualized sales and profit patterns across time periods.
+
+
+
+
