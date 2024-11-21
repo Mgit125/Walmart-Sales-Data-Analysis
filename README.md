@@ -15,5 +15,4 @@ Branches: Mandalay, Yangon, Naypyitaw
 Size:
 
 Columns: 17
-
 Rows: 1,000
