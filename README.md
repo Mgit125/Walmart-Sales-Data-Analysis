@@ -31,8 +31,11 @@ Use bar charts and pie charts for visualization.
 Goals:
 
 Examine sales trends across product lines.
+
 Analyze monthly and seasonal sales data to measure strategy effectiveness.
+
 Evaluate the impact of sales promotions or events on revenue.
+
 Use time-series charts to illustrate trends and patterns.
 
 ### Step 3: Customer Analysis
@@ -40,8 +43,13 @@ Use time-series charts to illustrate trends and patterns.
 Goals:
 
 Segment customers based on:
+
 Purchase behavior.
+
 Demographic information.
+
 Identify profitable customer segments and trends in customer purchases.
+
 Analyze gender-wise or customer type-wise profitability.
+
 Visualize findings using clustered bar charts or heatmaps.
