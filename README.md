@@ -1,5 +1,7 @@
 # Walmart-Sales-Data-Analysis
 
+![logo](https://github.com/Mgit125/Pizza-Sales-Analysis-2023-Excel-SQL-Project/blob/main/Final%20Pizza%20Sales%20Dashboard.png)
+
 ## About the Project
 This project explores Walmart sales data to uncover insights into top-performing branches, product trends, and customer behavior. The analysis aims to provide actionable strategies for branch performance improvement and enhanced customer targeting.
 ##Purpose of the Project
