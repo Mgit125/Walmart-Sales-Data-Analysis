@@ -21,9 +21,13 @@ Size: Columns: 17, Rows: 1,000
 Goals:
 
 Analyze the performance of different product lines.
+
 Identify:
+
 Top-performing product lines.
+
 Underperforming product lines requiring improvement.
+
 Use bar charts and pie charts for visualization.
 
 ### Step 2: Sales Analysis
