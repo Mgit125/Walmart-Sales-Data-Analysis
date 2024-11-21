@@ -157,9 +157,12 @@ Time of the day customers give the most ratings.
 
 Which day of the week has the best average ratings per branch?
 
+
+### Revenue and Profit Calculations
+
+#### Key Formulas
+
 ``` sql
-Revenue and Profit Calculations
-Key Formulas
 
 COGS = Unit Price × Quantity
 VAT = 5% × COGS
