@@ -12,7 +12,4 @@ Description: Sales transactions from three Walmart branches in Myanmar:
 
 Branches: Mandalay, Yangon, Naypyitaw
 
-Size:
-
-Columns: 17
-Rows: 1,000
+Size: Columns: 17, Rows: 1,000
