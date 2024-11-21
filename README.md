@@ -95,6 +95,67 @@ Analyzed customer behavior and purchase trends.
 
 Visualized sales and profit patterns across time periods.
 
+## Business Questions Answered
+
+### General
+
+How many unique cities does the data have?
+
+In which city is each branch?
+
+### Product Analysis
+
+How many unique product lines does the data have?
+
+What is the most common payment method?
+
+Which product line is the best seller?
+
+What is the total revenue by month?
+
+Which month had the largest COGS?
+
+Which product line generated the highest revenue?
+
+Which city had the largest revenue?
+
+Which product line had the largest VAT?
+
+Classify product lines as "Good" or "Bad" based on sales.
+
+Which branch sold more than the average number of products?
+
+What is the most common product line by gender?
+
+What is the average rating of each product line?
+
+### Sales Analysis
+
+Number of sales made during different times of the day on weekdays.
+
+Which customer type generates the most revenue?
+
+Which city has the largest tax percentage (VAT)?
+
+Which customer type pays the most in VAT?
+
+### Customer Analysis
+
+How many unique customer types exist?
+
+How many unique payment methods are used?
+
+What is the most common customer type?
+
+Which customer type buys the most?
+
+What is the gender distribution of customers?
+
+Gender distribution per branch.
+
+Time of the day customers give the most ratings.
+
+Which day of the week has the best average ratings per branch?
 
 
 
