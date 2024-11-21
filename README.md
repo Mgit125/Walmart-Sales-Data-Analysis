@@ -8,7 +8,7 @@ The main objective is to analyze Walmart's sales data to identify various factor
 
 Source: Kaggle Walmart Sales Forecasting(https://github.com/Princekrampah/WalmartSalesAnalysis/blob/master/SQL_queries.sql)
 
-Description: Sales transactions from three Walmart branches in Myanmar:
+Description: Sales transactions from three Walmart branches in Myanmar
 
 Branches: Mandalay, Yangon, Naypyitaw
 
