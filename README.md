@@ -170,7 +170,7 @@ Gross Sales = COGS + VAT
 Gross Profit = Gross Sales − COGS
 Gross Margin (%) = (Gross Profit ÷ Gross Sales) × 100
 
-#### Example Calculation
+Example Calculation
 
 Unit Price: 45.79, Quantity: 7
 COGS = 45.79 × 7 = 320.53
