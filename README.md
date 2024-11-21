@@ -6,7 +6,7 @@ This project explores Walmart sales data to uncover insights into top-performing
 The main objective is to analyze Walmart's sales data to identify various factors influencing branch performance and suggest actionable strategies for improvement.
 ## Dataset Overview
 
-Source: Kaggle Walmart Sales Forecasting Competition
+Source: Kaggle Walmart Sales Forecasting Competition ( https://github.com/Princekrampah/WalmartSalesAnalysis/blob/master/SQL_queries.sql )
 
 Description: Sales transactions from three Walmart branches in Myanmar:
 
