@@ -10,7 +10,7 @@ The main objective is to analyze Walmart's sales data to identify various factor
 
 ## Dataset Overview
 
-Source: Kaggle Walmart Sales Forecasting(https://github.com/Princekrampah/WalmartSalesAnalysis/blob/master/SQL_queries.sql)
+Source: Kaggle Walmart Sales Forecasting competition
 
 Description: Sales transactions from three Walmart branches in Myanmar
 
