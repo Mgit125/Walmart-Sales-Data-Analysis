@@ -180,4 +180,12 @@ Gross Margin (%) = (16.03 ÷ 336.56) × 100 ≈ 4.76%
 
 ```
 
+### Conclusion
+
+Identified top-performing branches and product lines.
+
+Discovered trends in sales, customer behavior, and product performance.
+
+Provided actionable recommendations to optimize sales strategies and enhance branch profitability.
+
 
