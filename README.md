@@ -186,7 +186,7 @@ Gross Margin (%) = (16.03 ÷ 336.56) × 100 ≈ 4.76%
 
 ```
 
-### Insights and Findings from Walmart Sales Data Analysis
+## Insights and Findings from Walmart Sales Data Analysis
 
 #### City and Branch Distribution
 
