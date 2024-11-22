@@ -186,12 +186,73 @@ Gross Margin (%) = (16.03 ÷ 336.56) × 100 ≈ 4.76%
 
 ```
 
-### Conclusion
+### Insights and Findings from Walmart Sales Data Analysis
 
-Identified top-performing branches and product lines.
+#### City and Branch Distribution
 
-Discovered trends in sales, customer behavior, and product performance.
+The dataset covers three cities: Naypyitaw, Yangon, and Mandalay, with branches located in each city.
 
-Provided actionable recommendations to optimize sales strategies and enhance branch profitability.
+#### Sales Performance by Time of Day
+
+Afternoon sales dominate across all branches, making it the most profitable time of the day.
+
+Customers also preferred Afternoon for providing service ratings, contributing to over 50% of total ratings.
+
+#### Day-wise and Week-wise Analysis
+
+Monday has the highest average customer rating overall (7.15).
+
+By branch:
+
+Branch A: Best ratings on Friday.
+
+Branch B: Best ratings on Monday.
+
+Branch C: Best ratings on Friday.
+
+#### Top Product Lines
+
+Food and Beverages is the most sold product line, generating the highest revenue of $53,471.28 and contributing the most VAT at $2,673.56.
+
+Fashion Accessories is most popular among females, while Health and Beauty appeals most to male customers.
+
+#### Payment Method Preferences
+
+The E-wallet is the most preferred payment method among customers.
+
+#### Customer Demographics and Preferences
+
+Female customers contribute the highest sales revenue.
+
+Members generate more revenue than normal customers, paying higher VAT as well.
+
+#### Monthly Trends
+
+January shows the highest Cost of Goods Sold (COGS) at $110,754.16.
+
+Revenue trends suggest seasonal patterns that businesses can leverage.
+
+#### Branch Performance
+
+Branch A outperforms others in terms of quantity sold, exceeding the average products sold by branches.
+
+Gender distribution analysis shows slight variations in transaction counts per branch.
+
+#### Ratings and Feedback
+
+Feedback is predominantly given in the Afternoon, indicating a favorable time for customer interactions.
+
+#### Customer Ratings by Product Line
+
+Average ratings reveal that Fashion Accessories received the highest customer satisfaction.
+
+#### Revenue Contribution by City
+
+Naypyitaw generates the highest revenue at 105,303.53, also contributing the most in VAT (34.24%).
+
+#### Performance Classification
+
+A detailed classification of product lines indicates "Good" or "Bad" performance based on average sales, enabling focused strategies for improvement.
+
 
 
